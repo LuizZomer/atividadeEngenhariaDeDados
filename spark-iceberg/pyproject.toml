@@ -1,0 +1,11 @@
+[project]
+name = "spark-iceberg"
+version = "0.1.0"
+description = "Projeto Apache Spark com Apache Iceberg"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "jupyterlab>=4.4.2",
+    "pyspark==3.5.3",
+]

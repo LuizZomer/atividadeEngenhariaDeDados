@@ -1,0 +1,12 @@
+[project]
+name = "spark-delta"
+version = "0.1.0"
+description = "Projeto Apache Spark com Delta Lake"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "delta-spark==3.2.0",
+    "ipykernel>=6.29.5",
+    "jupyterlab>=4.2.5",
+    "pyspark==3.5.3",
+]
