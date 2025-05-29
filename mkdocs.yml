@@ -3,3 +3,5 @@ theme:
   name: material
 nav:
   - Início: index.md
+  - Apache Iceberg: apache_iceberg.md
+  - Delta Lake: delta_lake.md
